@@ -24,6 +24,6 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. This
 2. **Weekend Engagement:** Launch "Saturday Challenges" to capitalize on existing high-activity trends.
 3. **Sleep Education:** Provide in-app content focusing on the importance of recovery for users hitting high daily step counts.
 
-## Image 
+## Images
 ![Steps vs Sleep Chart](viz_steps_vs_sleep.png)
 ![Weekly Activity Chart](viz_daily_activity.png)
